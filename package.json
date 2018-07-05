@@ -1,0 +1,25 @@
+{
+  "name": "vue-vnode-component",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "description": "Vue 2.x vnode component.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-okina/vue-vnode-component.git"
+  },
+  "author": "Kahiro Okina <okinakahiro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k-okina/vue-vnode-component/issues"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vnode",
+    "vue-vnode-component",
+    "component"
+  ],
+  "engines": {
+    "node": ">=6"
+  }
+}
